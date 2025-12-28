@@ -1,0 +1,7 @@
+{
+  "name": "SGO-Cuiabá: Sistema de Gestão de Obras",
+  "description": "Plataforma integrada para medições SINAPI, controle de urgências e dashboards administrativos para a Secretaria de Educação de Cuiabá.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
